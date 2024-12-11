@@ -1,11 +1,9 @@
-package org.example.potokilaba.lab1;
+package org.example.laba111111.lab1;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
-
-import java.util.concurrent.CompletableFuture;
 
 public class IntegralController {
 

@@ -1,6 +1,8 @@
-package org.example.potokilaba.lab1;
+package org.example.laba111111.lab1;
 
-import org.example.potokilaba.Function;
+
+
+import org.example.laba111111.Function;
 
 import java.util.function.DoubleUnaryOperator;
 

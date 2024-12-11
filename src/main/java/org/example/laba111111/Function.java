@@ -1,4 +1,4 @@
-package org.example.potokilaba;
+package org.example.laba111111;
 
 import java.util.function.DoubleUnaryOperator;
 import java.util.stream.IntStream;
